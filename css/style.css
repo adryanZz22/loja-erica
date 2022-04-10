@@ -1,2 +1,31 @@
 @charset "UTF-8";
 
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: #0D8CFF;
+    padding: 30px;
+    color: white;
+    text-align: center;
+}
+header .bordado{
+    color: #8C00FF;
+    padding-bottom:  30px;
+}
+header h1{
+
+}
+nav a{
+    color: white;
+    margin: 10px;
+
+}
+main{
+
+}
+
