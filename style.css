@@ -34,15 +34,15 @@ nav a{
 main{
     background-color: aliceblue;
     margin: auto;
-    min-width: 300pxpx;
-    max-width: 800px;
+    min-width: 263pxpx;
+    max-width: 780px;
     text-align: center;
     
 }
 img{
-     width: 100%;
-     height: 550px;
-     padding: 10px;
-    
+    border: 4px solid red;
+     width: 96%;
+     height: 340px;
+    margin: 2px; 
 }
 
