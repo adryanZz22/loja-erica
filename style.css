@@ -8,7 +8,7 @@
 }
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fashionmaq.com.br%2Fmaquina-brother-bordadeira-bp1430&psig=AOvVaw1XTUbly0h4tz1rOb6rWOry&ust=1649716019690000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCICAlp3FivcCFQAAAAAdAAAAABAG);
+background-color: #8C00FF;
 }
 header{
     background-color: rgb(105, 188, 255);
@@ -26,7 +26,6 @@ header h1{
     font-size: 70px;
 }
 nav a{
-    display: block;
     color: white;
     margin: 10px;
     
@@ -41,8 +40,9 @@ main{
 }
 img{
     border: 4px solid red;
-     width: 96%;
-     height: 340px;
-    margin: 2px; 
+     width: 170px;
+     height: 170px;
+     margin: 2px;
+     border-radius: 20px;
 }
 
