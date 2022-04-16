@@ -7,39 +7,36 @@
     padding: 0px;
 }
 body{
-    font-family: Arial, Helvetica, sans-serif;
-background-color: #8C00FF;
+    
 }
 header{
-    background-color: rgb(105, 188, 255);
+    background-color: #f2bc94;
     padding: 15px;
     color: white;
     text-align: center;
 }
-header .bordado{
-    color: #8C00FF;
-    padding-bottom:  30px;
-}
 header h1{
     display: inline-block;
-    font-family: 'Bebas Neue', cursive;
-    font-size: 70px;
+    font-size: 60px;
+    color: #722620;
 }
 nav a{
-    color: white;
+    color: #30110d;
     margin: 10px;
     
 }
 main{
     background-color: aliceblue;
     margin: auto;
+    padding-top: 20px;
     min-width: 263pxpx;
-    max-width: 780px;
+    max-width: 1000px;
     text-align: center;
+    background-color: #fadcb9;
     
 }
 img{
-    border: 4px solid red;
+    border: 4px solid #722620;
      width: 170px;
      height: 170px;
      margin: 2px;
