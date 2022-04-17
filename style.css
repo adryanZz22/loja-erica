@@ -6,20 +6,19 @@
     margin: 0px;
     padding: 0px;
 }
-main{
+div{
     background-color: #f2bc94;
     padding: 15px;
     color: white;
     text-align: center;
+    padding: 280px 0px 280px 0px;
 }
-main h1{
+div h1{
     font-family: 'Updock', cursive;
     font-size: 70px;
     color: #722620;
-    transform: translate(-50%, -50%);
-
 }
-nav a{
+div a{
     font-family: 'Times New Roman', Times, serif;
     color: #30110d;
     margin: 10px;
