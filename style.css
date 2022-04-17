@@ -11,14 +11,12 @@ main{
     padding: 15px;
     color: white;
     text-align: center;
-    padding-top: 80%;
-    padding-bottom: 70%;
 }
 main h1{
     font-family: 'Updock', cursive;
-    display: inline-block;
     font-size: 70px;
     color: #722620;
+    transform: translate(-50%, -50%);
 
 }
 nav a{
