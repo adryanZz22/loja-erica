@@ -25,4 +25,12 @@ div a{
     color: #30110d;
     margin: 10px;
 }
-
+div > p {
+    display: none;
+    text-align: center;
+}
+div:hover > p {
+    display: block;/*mostrar a frase que esta dentro do div*/
+    background-color: rgba(66, 189, 41, 0.801);
+    width: 260px;
+}
