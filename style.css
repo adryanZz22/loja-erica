@@ -14,12 +14,12 @@
 }
 body{
     color: var(--cor01);
-    height: 97.9vh;
+    height: 95vh;
 }
 #container{
     position: relative;
     background-color: var(--cor01);
-    height: 97.9vh;
+    height: 95vh;
     padding: 10px;
 }
 #conteudo{
