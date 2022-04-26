@@ -5,32 +5,40 @@
 *{
     margin: 0px;
     padding: 0px;
-}body{
-    background-color: #f2bc94;
+}
+:root{
+    --titulo: 'Updock';
+    --cor01: #f2bc94;
+    --cor02: #722620;
+    --cor03: #30110d;
+}
+#container{
+    position: relative;
+    background-color: var(--cor01);
+    height: 97.9vh;
+    padding: 10px;
+}
+#conteudo{
+    position: absolute;
+    background-color: var(--cor01);
+    height: 6%;
+    width: 35%;
+
+    left: 50%;
+    top: 50%;
+
+    transform: translate(-50%, -50%);
 }
 div{
-    background-color: #f2bc94;
-    padding: 15px;
-    color: white;
-    text-align: center;
-    padding: 325px 0px 315px 0px;
-}
-div h1{
-    font-family: 'Updock', cursive;
-    font-size: 70px;
-    color: #722620;
-}
-div a{
-    font-family: 'Times New Roman', Times, serif;
-    color: #30110d;
-    margin: 10px;
-}
-div > p {
-    display: none;
     text-align: center;
 }
-div:hover > p {
-    display: block;/*mostrar a frase que esta dentro do div*/
-    background-color: rgba(66, 189, 41, 0.801);
-    width: 260px;
+h1{
+    font-family: var(--titulo);
+    color: var(--cor03);
+    font-size: 3em;
+}
+a{
+    color: var(--cor02);
+    text-decoration: none;
+    margin: 15px;
 }
