@@ -12,6 +12,10 @@
     --cor02: #722620;
     --cor03: #30110d;
 }
+body{
+    color: var(--cor01);
+    height: 97.9vh;
+}
 #container{
     position: relative;
     background-color: var(--cor01);
