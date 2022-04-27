@@ -19,7 +19,7 @@ body{
 #container{
     position: relative;
     background-color: var(--cor01);
-    height: 95vh;
+    height: 97.9vh;
     padding: 10px;
 }
 #conteudo{
@@ -39,7 +39,7 @@ div{
 h1{
     font-family: var(--titulo);
     color: var(--cor03);
-    font-size: 3em;
+    font-size: 4em;
 }
 a{
     color: var(--cor02);
