@@ -24,9 +24,9 @@ body{
 }
 #conteudo{
     position: absolute;
-    background-color: var(--cor01);
+    background-color: var(--cor03);
     height: 6%;
-    width: 35%;
+    width: 45%;
 
     left: 50%;
     top: 50%;
@@ -39,7 +39,7 @@ div{
 h1{
     font-family: var(--titulo);
     color: var(--cor03);
-    font-size: 3.5em;
+    font-size: 4em;
 }
 a{
     color: var(--cor02);
