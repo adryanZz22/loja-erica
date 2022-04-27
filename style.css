@@ -24,7 +24,7 @@ body{
 }
 #conteudo{
     position: absolute;
-    background-color: var(--cor03);
+    background-color: var(--cor01);
     height: 6%;
     width: 45%;
 
