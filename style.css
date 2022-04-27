@@ -39,7 +39,7 @@ div{
 h1{
     font-family: var(--titulo);
     color: var(--cor03);
-    font-size: 4em;
+    font-size: 3.5em;
 }
 a{
     color: var(--cor02);
