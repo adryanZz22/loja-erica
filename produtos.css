@@ -15,17 +15,36 @@ body{
     background-color: #ccc;
     margin: auto;
     min-width: 250px;
-    max-width: 1300px;
-    height: 600px;
+    max-width: 1350px;
+    height: 1100px;
     text-align: center;
 }
 .fundo1{
     display: inline-block;
     margin: 10px 0px 0px 5px;
-    width: 200px;
+    width: 210px;
     height: 400px;
-    background-color: #30110d;
+    background-color: white;
 }
 .divfoto{
-    background-color: springgreen;
+    padding: 10px 0px 5px 0px;
+    background-color: white;
+}
+img{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.315);
+}
+.info{
+    padding: 10px 35px;
+    background-color: rgba(0, 0, 0, 0.068);
+}
+h4{
+    font-size: 35px;
+}
+h5{
+    font-size: 20px;
+    text-align: left;
+    padding-top: 10px;
+}
+.produto{
+    padding-top: 20px;
 }
