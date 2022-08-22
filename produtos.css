@@ -17,4 +17,12 @@ body{
     min-width: 250px;
     max-width: 800px;
     height: 600px;
+    display: flex;
+    justify-content: center;
+}
+.fundo1{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    background-color: #30110d;
 }
