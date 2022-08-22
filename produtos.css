@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: var(--cor01);
+}
+:root{
+    --titulo: 'Updock';
+    --cor01: #f2bc94;
+    --cor02: #722620;
+    --cor03: #30110d;
+}
+.corpo{
+    background-color: #ccc;
+    margin: auto;
+    min-width: 250px;
+    max-width: 800px;
+    height: 600px;
+}

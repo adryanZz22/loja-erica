@@ -14,7 +14,6 @@
 }
 body{
     color: var(--cor01);
-    height: 95vh;
 }
 #container{
     position: relative;
@@ -39,23 +38,11 @@ div{
 h1{
     font-family: var(--titulo);
     color: var(--cor03);
+    margin-top: 35px;
     font-size: 4em;
 }
 a{
     color: var(--cor02);
     text-decoration: none;
     margin: 15px;
-}
-img{
-    padding-top: 10px;
-    width: 20%;
-}
-.corpo{
-    background-color: black;
-}
-.fundo1{
-    display: inline-block;
-}
-.fundo2{
-    display: inline-block;
 }
