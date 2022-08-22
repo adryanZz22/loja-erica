@@ -22,7 +22,7 @@ body{
 .fundo1{
     display: inline-block;
     margin: 10px 0px 0px 5px;
-    width: 210px;
+    width: 175px;
     height: 400px;
     background-color: white;
 }
@@ -35,7 +35,7 @@ img{
 }
 .info{
     padding: 10px 35px;
-    background-color: rgba(0, 0, 0, 0.068);
+    background-color: rgb(238, 0, 0);
 }
 h4{
     font-size: 35px;
