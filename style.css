@@ -39,10 +39,10 @@ h1{
     font-family: var(--titulo);
     color: var(--cor03);
     margin-top: 35px;
+    margin-bottom: 10px;
     font-size: 4em;
 }
 a{
     color: var(--cor02);
     text-decoration: none;
-    margin: 15px;
 }
