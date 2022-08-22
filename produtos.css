@@ -15,13 +15,13 @@ body{
     background-color: #ccc;
     margin: auto;
     min-width: 250px;
-    max-width: 1100px;
+    max-width: 1300px;
     height: 600px;
     text-align: center;
 }
 .fundo1{
     display: inline-block;
-    margin: 10px 0px 0px 0px;
+    margin: 10px 0px 0px 5px;
     width: 200px;
     height: 400px;
     background-color: #30110d;
